@@ -7,6 +7,14 @@ html .s-style .navbar, html .s-style .navbar-mobile-expanded {
 html .s-style .navbar a, html .s-style .navbar-mobile-expanded a {
   color: white;
 }
+html .s-style .anchor {
+  display: block;
+  height: 60px;
+  /*same height as header*/
+  margin-top: -60px;
+  /*same height as header*/
+  visibility: hidden;
+}
 html .s-style div h3, html .s-style div h4 {
   text-align: center;
 }

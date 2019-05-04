@@ -10,6 +10,14 @@ a {
 	color: white;
 }
 }
+
+.anchor{
+  display: block;
+  height: 60px; /*same height as header*/
+  margin-top: -60px; /*same height as header*/
+  visibility: hidden;
+}
+
 div {
 
 h3, h4 {
