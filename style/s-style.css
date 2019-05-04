@@ -1,4 +1,13 @@
-.s-style div h3, .s-style div h4 {
+html {
+  scroll-behavior: smooth;
+}
+html .s-style .navbar, html .s-style .navbar-mobile-expanded {
+  background-color: #ec811a !important;
+}
+html .s-style .navbar a, html .s-style .navbar-mobile-expanded a {
+  color: white;
+}
+html .s-style div h3, html .s-style div h4 {
   text-align: center;
 }
 
